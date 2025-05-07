@@ -12,3 +12,9 @@
  
 }
 
+@font-face {
+    font-family: ‘AlmaghribiWarsh-Quran’;
+    src: local('AlmaghribiWarsh-Quran'), url(AlmaghribiWarsh-Quran.woff2) format('truetype');
+    unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+FB50-FDFF, U+FE80-FEFC;
+ 
+}
