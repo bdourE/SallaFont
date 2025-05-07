@@ -1,20 +1,20 @@
 @font-face {
     font-family: ‘Alfares’;
-    src: local('Alfares'), url(Alfares.ttf) format('truetype');
+    src: local('Alfares'), url(Alfares.ttf) format('ttf');
     unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+FB50-FDFF, U+FE80-FEFC;
  
 }
 
 @font-face {
     font-family: ‘AGA-Cairo-Regular’;
-    src: local('AGA-Cairo-Regular'), url(AGA-Cairo-Regular.ttf) format('truetype');
+    src: local('AGA-Cairo-Regular'), url(AGA-Cairo-Regular.ttf) format('ttf');
     unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+FB50-FDFF, U+FE80-FEFC;
  
 }
 
 @font-face {
     font-family: ‘AlmaghribiWarsh-Quran’;
-    src: local('AlmaghribiWarsh-Quran'), url(AlmaghribiWarsh-Quran.woff2) format('truetype');
+    src: local('AlmaghribiWarsh-Quran'), url(AlmaghribiWarsh-Quran.woff2) format('woff2');
     unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+FB50-FDFF, U+FE80-FEFC;
  
 }
